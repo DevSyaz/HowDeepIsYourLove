@@ -24,6 +24,11 @@ body {
 }
 
 h2 {
+    font-size: 3em;
+    color: #d32f2f;
+  }
+
+h2 {
     font-size: 1em;
     color: #d32f2f;
   }
