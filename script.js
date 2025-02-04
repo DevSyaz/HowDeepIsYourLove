@@ -1,14 +1,14 @@
 document.addEventListener("DOMContentLoaded", function () {
     const messages = [
-        "Are you sure?",
+        "Are you sure, my lov?",
         "Really sure??",
         "Are you positive?",
-        "Pookie please...",
+        "Sya..Pookiee please.. ;(",
         "Just think about it!",
-        "If you say no, I will be really sad...",
-        "I will be very sad...",
-        "I will be very very very sad...",
-        "Ok fine, I will stop asking...",
+        "If you say no, Devaro will be really sad...",
+        "Devaro will be very sad...",
+        "Devaro will be very very very sad...",
+        "Ok fine, Devaro will stop asking...",
         "Just kidding, say yes please! ❤️"
     ];
 
